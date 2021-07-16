@@ -9,8 +9,9 @@ from typing import Any
 
 def check_in(collection: set, element: Any) -> bool:
     # TODO вставить код сюда
-    result = None
+    result = '' in check_in
     return result
+
 
 
 if __name__ == '__main__':
