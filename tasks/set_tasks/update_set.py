@@ -7,7 +7,7 @@
 
 def update_set(set_1: set, set_2: set) -> set:
     # TODO вставить код сюда
-    return set_1
+    return set_1.update(set_2)
 
 
 if __name__ == '__main__':
