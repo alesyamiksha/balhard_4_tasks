@@ -9,8 +9,7 @@ from typing import Any
 
 def check_in(collection: set, element: Any) -> bool:
     # TODO вставить код сюда
-    result = '' in check_in
-    return result
+    return element in collection
 
 
 
